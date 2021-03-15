@@ -1,6 +1,6 @@
 {
-	"description": "Personal CMS",
-	"name": "amg/cms",
+	"description": "codeigniter hmvc template",
+	"name": "HuseinAmang/codeigniter-hmvc-template",
 	"type": "project",
 	"license": "MIT",
 	"require": {
