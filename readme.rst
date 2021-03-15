@@ -1,5 +1,5 @@
 #######
-Amg App
+codeigniter hmvc template
 #######
 
 #######
@@ -29,6 +29,7 @@ pass : password
 #######
 
 #######
+- codeigniter 3.1.11
 - ion-auth (benedmunds/CodeIgniter-Ion-Auth)
 - hmvc module (wiredesignz-hmvc)
 - admin-lte template 
